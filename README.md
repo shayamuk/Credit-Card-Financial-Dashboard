@@ -43,31 +43,7 @@ Data was modeled using a **star schema** for optimal performance and scalability
 
 ---
 
-## Dashboard 1: Credit Card Customer Report (Who generates revenue?)
-
-### Key KPIs
-
-* **Total Revenue:** ₹57M+
-* **Total Interest Earned:** ₹8.0M
-* **Total Income:** ₹588M
-* **Customer Satisfaction Score (CSS):** 3.19
-
-### Key Insights
-
-* **Age Group Impact:** Customers aged **40–50** and **50–60** contribute the highest revenue (₹25M+ combined).
-* **Top Professions:** Businessmen and White-collar customers contribute **~50% of total revenue**.
-* **Geographical Performance:** Top 5 states generate **₹25M+**, led by CA, TX, and NY.
-* **Income Segmentation:** High-income customers contribute **3× more revenue** than low-income groups.
-* **Marital & Dependents Analysis:** Married customers and customers with 2–3 dependents show higher spending consistency.
-
-### Business Impact
-
-* Identified **high-LTV customer segments**, enabling targeted credit limit and loyalty programs.
-* Provided actionable insights for **customer segmentation and retention strategies**.
-
----
-
-## Dashboard 2: Credit Card Transaction Report (How revenue is generated?)
+## Dashboard 1: Credit Card Transaction Report (How revenue is generated?)
 
 ### Key KPIs
 
@@ -96,7 +72,31 @@ Data was modeled using a **star schema** for optimal performance and scalability
 
 ---
 
-## What Was Achieved
+## Dashboard 2: Credit Card Customer Report (Who generates revenue?)
+
+### Key KPIs
+
+* **Total Revenue:** ₹57M+
+* **Total Interest Earned:** ₹8.0M
+* **Total Income:** ₹588M
+* **Customer Satisfaction Score (CSS):** 3.19
+
+### Key Insights
+
+* **Age Group Impact:** Customers aged **40–50** and **50–60** contribute the highest revenue (₹25M+ combined).
+* **Top Professions:** Businessmen and White-collar customers contribute **~50% of total revenue**.
+* **Geographical Performance:** Top 5 states generate **₹25M+**, led by CA, TX, and NY.
+* **Income Segmentation:** High-income customers contribute **3× more revenue** than low-income groups.
+* **Marital & Dependents Analysis:** Married customers and customers with 2–3 dependents show higher spending consistency.
+
+### Business Impact
+
+* Identified **high-LTV customer segments**, enabling targeted credit limit and loyalty programs.
+* Provided actionable insights for **customer segmentation and retention strategies**.
+
+---
+
+## What We Achieved
 
 * Built **2 executive-ready Power BI dashboards** covering both customer and transaction analytics.
 * Analyzed **₹57M+ revenue across 600K+ transactions**.
